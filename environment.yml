@@ -1,0 +1,23 @@
+name: autoencoder
+channels:
+  - defaults
+  - pytorch
+  - anaconda
+  - conda-forge
+dependencies:
+  - anaconda
+  - python=3.6
+  - numpy=1.14.2
+  - pandas=0.22.0
+  - matplotlib=2.0.2
+  - seaborn=0.7.1
+  - tensorflow=1.8.0
+  - keras=2.2.0
+  - plotly=2.7.0
+  - jupyter_nbextensions_configurator
+  - ann_visualizer
+  - pip
+  - pip:
+    - cufflinks==0.12.1
+    - jupyter-tensorboard
+prefix: C:\ProgramData\Miniconda3\envs\autoencoder
