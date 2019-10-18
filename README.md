@@ -18,7 +18,7 @@ This is a jupyter Notebook that where I use a Neural Network model, namely Autoe
 
 **Keras version      : 2.2.0**
 
-## remove previous anaconda environment if existed
+## remove previous miniconda environment if existed
 conda remove --all -n autoencoder
 #
 conda env create -f environment.yml
