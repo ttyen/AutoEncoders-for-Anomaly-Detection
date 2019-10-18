@@ -17,3 +17,10 @@ This is a jupyter Notebook that where I use a Neural Network model, namely Autoe
 **Tensorflow version : 1.8.0**
 
 **Keras version      : 2.2.0**
+
+## remove previous anaconda environment if existed
+conda remove --all -n autoencoder
+#
+conda env create -f environment.yml
+## after create anaconda environment disable pluging to supress warning
+# disable .jupyter plugin "jupyter_tensorboard": false
