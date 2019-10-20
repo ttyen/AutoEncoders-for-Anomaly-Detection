@@ -1,6 +1,7 @@
 # AutoEncoders-for-Anomaly-Detection
 
 This is a jupyter Notebook that where I use a Neural Network model, namely Autoencioders for detecting anomallies in my data.
+Original blog: https://blog.goodaudience.com/neural-networks-for-anomaly-outliers-detection-a454e3fdaae8
 
 **Libraries & Respective Versions:**
 
